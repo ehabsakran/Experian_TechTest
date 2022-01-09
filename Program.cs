@@ -31,6 +31,9 @@ namespace Experian_TechTest
             {
                 Console.WriteLine(Humanize(item));
             }
+
+            Console.WriteLine("Press any key to exit.");
+            Console.ReadLine();
         }
 
         //Basic validation
